@@ -1,0 +1,10 @@
+The black line-art of the book, in the logo is from:
+https://github.com/microsoft/fluentui-system-icons
+
+Specifically the 'book open' icon; And that is under
+the MIT license. The icon itself is included in our 
+logo for Chatology, which itself is not under the 
+same license and is in-fact under the CC-BY-ND 4.x 
+License which can be found at:
+
+https://creativecommons.org/licenses/by-nd/4.0/deed.en
